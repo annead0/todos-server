@@ -1,8 +1,8 @@
 {
-  "todo": [
+  "todos": [
     {
       "id": 1,
-      "title": "washing up"
+      "title": "Learning Nuxt"
     }
   ],
   "profile": {
