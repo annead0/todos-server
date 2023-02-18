@@ -2,11 +2,11 @@
   "todos":[
     {
     id:1,
-    title:"Wash Up"
+    title:"Wash Up",
     },
     {
     id:2,
-    title:"Learn VueJS"
+    title:"Learn VueJS",
     },
     {
     id:3,
