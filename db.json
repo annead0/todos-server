@@ -1,8 +1,8 @@
 {
-  "posts": [
+  "todos": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "nuxting"
     }
   ],
   "profile": {
