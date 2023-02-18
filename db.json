@@ -1,17 +1,17 @@
 {
-  "todos":[
+  "todos": [
     {
-    "id":1,
-    "title":"Wash Up",
+      "id": 1,
+      "title": "WashingUp"
     },
     {
-    "id":2,
-    "title":"Learn VueJS",
+      "id":2,
+      "title":"LearnNuxtJS",
     },
     {
-    "id":3,
-    "title":"Learn NuxtJS"
-    }
+      "id":3,
+      "title":"LearnVue3",
+    },
   ],
   "profile": {
     "name": "typicode"
