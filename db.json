@@ -1,8 +1,8 @@
 {
-  "todos": [
+  "posts": [
     {
       "id": 1,
-      "title": "Learning Nuxt"
+      "title": "hello"
     }
   ],
   "profile": {
